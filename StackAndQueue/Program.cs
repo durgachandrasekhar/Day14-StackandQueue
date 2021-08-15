@@ -10,7 +10,6 @@ namespace StackAndQueue
             Console.WriteLine("Welcome to Stack and Queue !");
             Console.WriteLine("----------------------------");
 
-            
             LinkedListQueue linkedListQueue = new LinkedListQueue();
             linkedListQueue.Enqueue(56);
             linkedListQueue.Enqueue(30);
@@ -19,6 +18,20 @@ namespace StackAndQueue
 
             //Display Queue
             linkedListQueue.Display();
+            Console.WriteLine("----------------");
+
+            //Dequeue from queue
+            linkedListQueue.Dequeue();
+
+            //Empty Dequeue
+            linkedListQueue.IsEmpty();
+
+            //Display Queue
+            linkedListQueue.Display();
+            Console.WriteLine("----------------");
+
+
+
         }
     }
 }
