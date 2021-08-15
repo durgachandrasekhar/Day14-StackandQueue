@@ -1,0 +1,14 @@
+C:\Users\SHIVA KUMAR\source\repos\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.csproj.AssemblyReference.cache
+C:\Users\SHIVA KUMAR\source\repos\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIVA KUMAR\source\repos\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.AssemblyInfoInputs.cache
+C:\Users\SHIVA KUMAR\source\repos\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.AssemblyInfo.cs
+C:\Users\SHIVA KUMAR\source\repos\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\SHIVA KUMAR\source\repos\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.exe
+C:\Users\SHIVA KUMAR\source\repos\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.deps.json
+C:\Users\SHIVA KUMAR\source\repos\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.runtimeconfig.json
+C:\Users\SHIVA KUMAR\source\repos\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.runtimeconfig.dev.json
+C:\Users\SHIVA KUMAR\source\repos\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.dll
+C:\Users\SHIVA KUMAR\source\repos\StackAndQueue\StackAndQueue\bin\Debug\netcoreapp3.1\StackAndQueue.pdb
+C:\Users\SHIVA KUMAR\source\repos\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.dll
+C:\Users\SHIVA KUMAR\source\repos\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.pdb
+C:\Users\SHIVA KUMAR\source\repos\StackAndQueue\StackAndQueue\obj\Debug\netcoreapp3.1\StackAndQueue.genruntimeconfig.cache
